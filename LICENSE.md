@@ -1,0 +1,114 @@
+AArchX Proprietary License
+Copyright (c) 2026 mont127. All rights reserved.
+
+All source code, binaries, documentation, and other materials in this repository
+are proprietary to mont127, except where explicitly stated otherwise. This license
+applies to the contents of this repository as distributed, from the commit at
+which this LICENSE file was added onward.
+
+GRANT
+
+Permission is granted to use and run this software for your own non-commercial
+purposes, including personal, educational, academic, and research purposes,
+provided that all copyright notices, license notices, and attribution notices are
+retained.
+
+Permission is granted to build and compile this software from source for your own
+use.
+
+Permission is granted to make copies of this software solely for your own backup
+or installation purposes, provided those copies are not made available to any
+third party.
+
+Forking this repository on GitHub in order to read the code or to propose changes
+back to this repository is permitted. A fork may not be published, promoted,
+distributed, or used as a separate version of the software, and remains subject
+to every restriction in this license.
+
+Non-commercial use does not include selling, licensing for a fee, offering the
+software as part of a paid product or service, using the software primarily for
+commercial advantage or monetary compensation, or otherwise commercially
+exploiting the software.
+
+MODIFICATION
+
+You may modify this software for your own personal, educational, academic, or
+research use, including applying local fixes, patches, and configuration changes.
+
+Modified versions, and any derivative works, are subject to every restriction in
+this license, including the restrictions on bundling, redistribution, and
+commercial use. You may not distribute, publish, share, or otherwise make
+available any modified version, in whole or in part, without prior written
+permission from mont127.
+
+Modification by or on behalf of a company or other organization, for any business
+purpose, requires prior written permission from mont127. This includes modifying
+the software for internal business use, integrating it into internal tooling or
+infrastructure, or adapting it to support a commercial product or service.
+
+Access to the source code does not grant any ownership rights in this software or
+in any modified version of it.
+
+NO BUNDLING OR REDISTRIBUTION
+
+You may not distribute, redistribute, publish, mirror, host for download, bundle,
+embed, package, sublicense, or otherwise include this software or any modified
+version, in whole or in part, in or alongside any other software, package,
+distribution, disk or system image, repository, product, or service, without prior
+written permission from mont127.
+
+This restriction applies whether or not the bundling or redistribution is
+commercial, whether or not any fee is charged, and whether or not the software has
+been modified.
+
+COMMERCIAL USE
+
+Any commercial use of this software or any modified version, including use by or
+on behalf of a company or other organization for business purposes, and any
+incorporation into a commercial product or service, requires prior written
+permission from mont127 and may be subject to additional terms and conditions.
+
+RESERVATION OF RIGHTS
+
+All rights not expressly granted under this license remain reserved by mont127.
+No permission is granted to reproduce, distribute, publish, sublicense, sell,
+commercially exploit, or reverse engineer this software, in whole or in part,
+without prior written permission from mont127, except to the extent such
+restriction is prohibited by applicable law.
+
+TERMINATION
+
+This license terminates automatically if you breach any of its terms. Upon
+termination you must cease all use of the software and destroy all copies in your
+possession, including any modified versions.
+
+CONTRIBUTIONS
+
+By submitting any contribution to this repository, including pull requests,
+patches, or code suggestions, you assign to mont127 all rights in that
+contribution, and agree that it may be licensed under these terms.
+
+PERMISSION REQUESTS
+
+Requests for permission to modify, bundle, redistribute, or commercially use
+AArchX should be directed to mont127 at: deepwokenpersona@gmail.com
+
+THIRD-PARTY COMPONENTS
+
+Third-party components, libraries, or portions of code included with AArchX remain
+subject to their respective licenses and copyright notices.
+
+PREVIOUS VERSIONS
+
+Copies of AArchX obtained from commits made before this LICENSE file was added
+remain available under the terms of the license that applied at the time they were
+distributed. This license does not revoke rights previously granted under those
+licenses.
+
+NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER
+BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
