@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="640" height="330" alt="AARCHX" src="https://github.com/user-attachments/assets/b53f5f65-9312-44f7-b145-a78f7ad4938a" />
+  <img width="420" height="330" alt="AARCHX" src="https://github.com/user-attachments/assets/b53f5f65-9312-44f7-b145-a78f7ad4938a" />
 </p>
 
 <h1 align="center"><em>AArchX</em></h1>
