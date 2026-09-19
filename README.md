@@ -23,6 +23,8 @@
 
 > [!WARNING]
 > AArchX WILL NOT WORK UNDER macOS 27 Golden Gate. Im working on fixing this
+
+
 AArchX loads and runs x86-64 Mach-O programs on Apple Silicon with its own decoder, interpreter, JIT, dynamic linker and syscall layer. It also runs i386 PE code inside Wine's WoW64 process.
 
 The Rosetta package still has to be installed, because it is what ships the x86-64 shared cache. AArchX maps that cache itself and never calls Rosetta's translator.
